@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 - 🔭 I’m currently working on **themes for the Lapce IDE**
 - 🌱 I’m currently learning **Rust**
